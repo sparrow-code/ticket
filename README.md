@@ -80,3 +80,5 @@ Give a ⭐️ if this project helped you!
     <img src="./static/tickets.png" alt="Logo" width="350px" >
     <img src="./static/detail.png" alt="Logo" width="350px" >
 </p>
+
+This project is tested with BrowserStack.
